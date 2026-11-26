@@ -1,6 +1,6 @@
 """Entry for make.fun: The 3 AM Commit Message.
 
-A commit message reverting a small, harmless 2:58 AM improvement.
+A commit message reverting a small, supposedly harmless 2:58 AM improvement.
 """
 import os
 
